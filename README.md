@@ -15,6 +15,6 @@
 **This project is going to be summarized, when I start studying Linux Operating System and Odrioid Embedded Board again in the near future.**
 
 <p align="center">
-<img src="./Img/Certification.jpg.jpg"><br>
+<img src="./Img/Certification.jpg"><br>
 <strong>Research Certification of Black Box System combined with CPTED</strong>
 <p>
